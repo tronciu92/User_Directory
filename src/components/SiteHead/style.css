@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Monoton&display=swap');
+.wrapper {
+    height: 200px;
+    background-color:aquamarine;
+    display: flex;
+    align-items: center;
+    align-content: center;
+    text-align: center;
+    vertical-align: middle;
+    flex-direction: column;
+    justify-content: center;
+
+}
+
+.title {
+    font-family: 'Monoton', cursive;
+    font-size: xx-large;
+    font-weight: bolder;
+
+}
+
+.tagline {
+
+font-size: large;
+font-weight: bold;
+}
