@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/tronciu92/User_Directory/static/css/main.53b13227.chunk.css",
+    "main.js": "/tronciu92/User_Directory/static/js/main.61983cd0.chunk.js",
+    "main.js.map": "/tronciu92/User_Directory/static/js/main.61983cd0.chunk.js.map",
+    "runtime-main.js": "/tronciu92/User_Directory/static/js/runtime-main.0a00fb5a.js",
+    "runtime-main.js.map": "/tronciu92/User_Directory/static/js/runtime-main.0a00fb5a.js.map",
+    "static/js/2.1837b155.chunk.js": "/tronciu92/User_Directory/static/js/2.1837b155.chunk.js",
+    "static/js/2.1837b155.chunk.js.map": "/tronciu92/User_Directory/static/js/2.1837b155.chunk.js.map",
+    "index.html": "/tronciu92/User_Directory/index.html",
+    "precache-manifest.58cb07c3eca52b5b6bd152cda09ffd3e.js": "/tronciu92/User_Directory/precache-manifest.58cb07c3eca52b5b6bd152cda09ffd3e.js",
+    "service-worker.js": "/tronciu92/User_Directory/service-worker.js",
+    "static/css/main.53b13227.chunk.css.map": "/tronciu92/User_Directory/static/css/main.53b13227.chunk.css.map",
+    "static/js/2.1837b155.chunk.js.LICENSE.txt": "/tronciu92/User_Directory/static/js/2.1837b155.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0a00fb5a.js",
+    "static/js/2.1837b155.chunk.js",
+    "static/css/main.53b13227.chunk.css",
+    "static/js/main.61983cd0.chunk.js"
+  ]
+}
