@@ -1,7 +1,7 @@
 {
   "name": "user-directory",
   "version": "0.1.0",
-  "homepage": "https://tronciu92/github.com/User_Directory",
+  "homepage": "https://tronciu92.github.com/User_Directory",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
